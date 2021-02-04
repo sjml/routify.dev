@@ -58,7 +58,7 @@
   <p>
     <code>routify -c</code>
     is shorthand for
-    <code>routify --childprocess</code>
+    <code>routify --child-process</code>
     . If you do not wish to launch your server as a child process, you can use an
     npm task runner like
     <code>npm-run-all</code>
@@ -87,7 +87,7 @@
 
 <div class="c-container-vertical c-container-vertical--small">
   <div class="c-content">
-    <h2>4. Disable if dynamic imports if needed</h2>
+    <h2>4. Disable dynamic imports if necessary</h2>
     <p>If your server doesn't support dynamic imports, you need to disable them in Routify.</p>
   </div>
   <div class="card">
